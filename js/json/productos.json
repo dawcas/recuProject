@@ -1,0 +1,65 @@
+[
+    {
+        "id": 0,
+        "id_categoria": 0,
+        "titulo": "Firulillo colorao",
+        "descripcion": "El típico firulillo, pero en color rojo. No rojo pasión porque ¿quién se apasiona por un firulillo?",
+        "color": "rojo",
+        "precio": "1.2",
+        "imagen": "firulillo_colorao.png"
+    },
+    {
+        "id": 1,
+        "id_categoria": 1,
+        "titulo": "Guantes antisalpicaduras",
+        "descripcion": "Guantes especiales para no salpicarte al fregar. De dudosa utilidad y más incómodos que ver pr0n en el salón con tus padres.",
+        "color": "multicolor",
+        "precio": "10",
+        "imagen": "splashStopper.png"
+    },
+    {
+        "id": 2,
+        "id_categoria": 0,
+        "titulo": "Firulillo amarillo",
+        "descripcion": "El típico firulillo, en amarillo tradicional. No es amarillo chillón que sepamos, nadie lo ha oído gritar.",
+        "color": "amarillo",
+        "precio": "1.2",
+        "imagen": "firulillo_amarillo.png"
+    },
+    {
+        "id": 3,
+        "id_categoria": 0,
+        "titulo": "Firulillo púrpura",
+        "descripcion": "El típico firulillo, púrpura. Yo diría que es morado, pero mi mujer me ha llamado acromatópsico y dice que es púrpura.",
+        "color": "púrpura",
+        "precio": "1.2",
+        "imagen": "firulillo_purpura.png"
+    },
+    {
+        "id": 4,
+        "id_categoria": 1,
+        "titulo": "Portavasos de pie",
+        "descripcion": "No es un portavasos que se tenga en pie, no, ¡es un portavasos que te pones en el pie! Si crees que es útil háztelo mirar.",
+        "color": "verde",
+        "precio": "6.5",
+        "imagen": "footCupHolder.png"
+    },
+    {
+        "id": 5,
+        "id_categoria": 2,
+        "titulo": "Calcetines blancos",
+        "descripcion": "Calcetines, talla única.",
+        "color": "blanco",
+        "precio": "3.25",
+        "imagen": "calcetines_blancos.png"
+    },
+    {
+        "id": 6,
+        "id_categoria": 2,
+        "titulo": "Calcetines negros",
+        "descripcion": "Calcetines, talla única.",
+        "color": "negro",
+        "precio": "3.25",
+        "imagen": "calcetines_negros.png"
+    }
+]

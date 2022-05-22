@@ -1,0 +1,17 @@
+[
+    {
+        "id": 0,
+        "titulo": "Firulillos",
+        "descripcion": "Pues los firulillos, si la misma palabra es autoexplicativa."
+    },
+    {
+        "id": 1,
+        "titulo": "Pamplinas",
+        "descripcion": "Habría puesto \"Chindogus\", pero mejor decirlo en castellano."
+    },
+    {
+        "id": 2,
+        "titulo": "Variados",
+        "descripcion": "Lo que no entra en las demás categorías o me da pereza clasificar, según el caso."
+    }
+]

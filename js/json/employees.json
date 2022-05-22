@@ -1,0 +1,248 @@
+[
+    {
+        "name": "Juanita Banana",
+        "position": "CEO",
+        "pics": [
+            "juanibanani0.jpeg",
+            "juanibanani1.jpeg"
+        ],
+        "contact": {
+            "email": "juba@lips.um",
+            "tlf": "999999999",
+            "mbl": "700000001"
+        },
+        "studies": [
+            {
+                "title": "Cosas",
+                "place": "Instituto",
+                "start": "2016-09-20",
+                "finish": "2018-06-20"
+            },
+            {
+                "title": "Ingeniería de cosas",
+                "place": "Universidad Una",
+                "start": "2018-09-20",
+                "finish": "2021-06-20"
+            }
+        ],
+        "experience": [
+            {
+                "company": "Empresa 1",
+                "position": "Manager",
+                "start": "2021-07-20",
+                "finish": "2021-09-20"
+            },
+            {
+                "company": "Empresa 2",
+                "position": "Líder supremo",
+                "start": "2021-09-22",
+                "finish": "2021-12-31"
+            }
+        ]
+    },
+    {
+        "name": "Sandunguero Dominguero",
+        "position": "CTO",
+        "pics": [
+            "sandunguero0.jpeg",
+            "sandunguero1.jpeg"
+        ],
+        "contact": {
+            "email": "sado@lips.um",
+            "tlf": "000000000",
+            "mbl": "000000000"
+        },
+        "studies": [
+            {
+                "title": "Cosas",
+                "place": "Instituto",
+                "start": "2016-09-20",
+                "finish": "2018-06-20"
+            },
+            {
+                "title": "Ingeniería de cosas",
+                "place": "Universidad Una",
+                "start": "2018-09-20",
+                "finish": "2021-06-20"
+            }
+        ],
+        "experience": [
+            {
+                "company": "Empresa 1",
+                "position": "Manager",
+                "start": "2021-07-20",
+                "finish": "2021-09-20"
+            },
+            {
+                "company": "Empresa 2",
+                "position": "Líder supremo",
+                "start": "2021-09-22",
+                "finish": "2021-12-31"
+            }
+        ]
+    },
+    {
+        "name": "Casimiro Casitoco",
+        "position": "Jefe de área",
+        "pics": [
+            "casimiro0.jpeg",
+            "casimiro1.jpeg"
+        ],
+        "contact": {
+            "email": "caca@lips.um",
+            "tlf": "919090900",
+            "mbl": "678901234"
+        },
+        "studies": [
+            {
+                "title": "Cosas",
+                "place": "Instituto",
+                "start": "2016-09-20",
+                "finish": "2018-06-20"
+            },
+            {
+                "title": "Ingeniería de cosas",
+                "place": "Universidad Una",
+                "start": "2018-09-20",
+                "finish": "2021-06-20"
+            }
+        ],
+        "experience": [
+            {
+                "company": "Empresa 1",
+                "position": "Manager",
+                "start": "2021-07-20",
+                "finish": "2021-09-20"
+            },
+            {
+                "company": "Empresa 2",
+                "position": "Líder supremo",
+                "start": "2021-09-22",
+                "finish": "2021-12-31"
+            }
+        ]
+    },
+    {
+        "name": "Cher",
+        "position": "Administrador",
+        "pics": [
+            "cher0.jpeg",
+            "cher1.jpeg"
+        ],
+        "contact": {
+            "email": "cher@lips.um",
+            "tlf": "111111111",
+            "mbl": "222222222"
+        },
+        "studies": [
+            {
+                "title": "Cosas",
+                "place": "Instituto",
+                "start": "2016-09-20",
+                "finish": "2018-06-20"
+            },
+            {
+                "title": "Ingeniería de cosas",
+                "place": "Universidad Una",
+                "start": "2018-09-20",
+                "finish": "2021-06-20"
+            }
+        ],
+        "experience": [
+            {
+                "company": "Empresa 1",
+                "position": "Manager",
+                "start": "2021-07-20",
+                "finish": "2021-09-20"
+            },
+            {
+                "company": "Empresa 2",
+                "position": "Líder supremo",
+                "start": "2021-09-22",
+                "finish": "2021-12-31"
+            }
+        ]
+    },
+    {
+        "name": "Gato Siamés",
+        "position": "Coordinador",
+        "pics": [
+            "gato0.jpeg",
+            "gato1.jpeg"
+        ],
+        "contact": {
+            "email": "gasi@lips.um",
+            "tlf": "PSPSPSPSS",
+            "mbl": "699999999"
+        },
+        "studies": [
+            {
+                "title": "Cosas",
+                "place": "Instituto",
+                "start": "2016-09-20",
+                "finish": "2018-06-20"
+            },
+            {
+                "title": "Ingeniería de cosas",
+                "place": "Universidad Una",
+                "start": "2018-09-20",
+                "finish": "2021-06-20"
+            }
+        ],
+        "experience": [
+            {
+                "company": "Empresa 1",
+                "position": "Manager",
+                "start": "2021-07-20",
+                "finish": "2021-09-20"
+            },
+            {
+                "company": "Empresa 2",
+                "position": "Líder supremo",
+                "start": "2021-09-22",
+                "finish": "2021-12-31"
+            }
+        ]
+    },
+    {
+        "name": "Yolanda Ramos",
+        "position": "Gurú suprema de relaciones públicas",
+        "pics": [
+            "guru0.jpeg",
+            "guru1.jpeg"
+        ],
+        "contact": {
+            "email": "yora@lips.um",
+            "tlf": "777777777",
+            "mbl": "69696969"
+        },
+        "studies": [
+            {
+                "title": "Cosas grasiosas",
+                "place": "Instituto",
+                "start": "2000-09-20",
+                "finish": "2004-06-20"
+            },
+            {
+                "title": "Ingeniería del humor",
+                "place": "Universidad Alguna",
+                "start": "2018-09-20",
+                "finish": "2021-06-20"
+            }
+        ],
+        "experience": [
+            {
+                "company": "Empresa 1",
+                "position": "Manager",
+                "start": "2021-07-20",
+                "finish": "2021-09-20"
+            },
+            {
+                "company": "Empresa 2",
+                "position": "Gurú suprema",
+                "start": "2021-09-22",
+                "finish": "2021-12-31"
+            }
+        ]
+    }
+]
